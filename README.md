@@ -1,5 +1,7 @@
 # Mubbbu-Web-Partners-Products
-This Repository contain all websites, including 2 Enterprise Ecommerce online Stores my company have created, i have been a lead developer and Director for my company that have close to 20 Clients  that been building websites since my second year in University 2021, For Business Intelligent, Websites, App and Machine Learning Product You can Contant me +27 78 008 7613, Thank You  
+Please note some Product may not work due to customers have not paid their memebership.
+
+This Repository contain all websites, including 2 Enterprise Ecommerce online Stores The Company i coFounded,Have been a lead developer and Director for my company that have close to 20 Clients  that been building websites since my second year in University 2021, For Business Intelligent, Websites, App and Machine Learning Product You can Contant me +27 78 008 7613, Thank You  
 
 https://perseverancesafoundation.org/
 
